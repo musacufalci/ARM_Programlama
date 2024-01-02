@@ -1,1 +1,1 @@
-# ARM_Programlama
+# ARM Programlama Eğitimi
