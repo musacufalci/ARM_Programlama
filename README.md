@@ -15,5 +15,6 @@ ARM Cortex-M7 Core'da GUI Tasarımı (GUI Design on ARM Cortex-M7 Core)
 4) https://github.com/musacufalci/Send_and_Receive_Messages_to_Your_IoT_Devices_Using_MQTT
 5) https://github.com/musacufalci/Sending_and_Receiving_SAEJ1939_CANBUS_Messages
 6) https://youtu.be/1ShGHbqCryM?feature=shared
+7) https://medium.com/@musacufalci/mbed-rapid-iot-device-development-02a405f68960
 
 #embeddedsoftware #embedded #embeddedsystems #electronicsdesign #embeddeddevelopment #embeddedsystemsconsultant #engineer #engineers #programming #firmware #microcontrollers #sensors #internetofthings #iot #iotsolutions #iotdevices #iotdevelopment #automative #medical #military #homeautomation #smarthome #automation #telecommunications #communicationprotocol #security #industries #robotics #electronics #arm #stm32 #esp32
