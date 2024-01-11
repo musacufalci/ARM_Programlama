@@ -9,11 +9,11 @@ E-mail: proje.muhendislik.danismanlik.hiz@gmail.com
 
 Örnek Uygulamalar: ARM Cortex-M7 Core'da GUI Tasarımı (GUI Design on ARM Cortex-M7 Core)
 
-https://lnkd.in/dGAnNkS8
-https://lnkd.in/dZWD25ad
-https://lnkd.in/dQgfmBwi
-https://lnkd.in/dC6kre63
-https://lnkd.in/dyH33bz7
+https://youtu.be/u_DeV4EHyiI?feature=shared
+https://github.com/musacufalci/GUI_Application_on_an_ARM_Cortex-M7/tree/main
+https://github.com/musacufalci/STM32F103C6_Flashing_of_Leds
+https://github.com/musacufalci/Send_and_Receive_Messages_to_Your_IoT_Devices_Using_MQTT
+https://github.com/musacufalci/Sending_and_Receiving_SAEJ1939_CANBUS_Messages
 https://youtu.be/1ShGHbqCryM?feature=shared
 
 #embeddedsoftware #embedded #embeddedsystems #electronicsdesign #embeddeddevelopment #embeddedsystemsconsultant #engineer #engineers #programming #firmware #microcontrollers #sensors #internetofthings #iot #iotsolutions #iotdevices #iotdevelopment #automative #medical #military #homeautomation #smarthome #automation #telecommunications #communicationprotocol #security #industries #robotics #electronics #arm #stm32 #esp32
