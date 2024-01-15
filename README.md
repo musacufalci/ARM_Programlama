@@ -1,7 +1,7 @@
 # ARM Programlama Eğitimi
 
 
-ARM Programlama Eğitimi Online 18.01.2024 tarihinde başlayacaktır. Dersler Çarşamba, Perşembe, Cuma, Cumartesi, Pazar günleri 5 gün 19:00 - 22:00 saatleri arasında yapılacaktır. Kursun toplam süresi 200 saattir.
+ARM Programlama Eğitimi Online 18.01.2024 tarihinde başlayacaktır. Dersler Çarşamba, Perşembe, Cuma, Cumartesi, Pazar günleri 5 gün 19:00 - 22:30 saatleri arasında yapılacaktır. Kursun toplam süresi 200 saattir.
 
 
 Kurs ücreti öğrencilere, bireysel katılımcılara, firmalara, takımlara farklıdır. Kurs ücreti bilgisini öğrenmek ve kayıt olmak için ad, soyad, e-posta adresi, telefon numarası bilgilerinizi aşağıdaki e-mail adrese gönderiniz. 
